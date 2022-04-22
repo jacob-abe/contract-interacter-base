@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/contract-interacter-base/static/css/main.039bf95e.css",
-    "main.js": "/contract-interacter-base/static/js/main.9062fb3c.js",
+    "main.css": "/contract-interacter-base/static/css/main.ba78359e.css",
+    "main.js": "/contract-interacter-base/static/js/main.4bfbe8f9.js",
     "index.html": "/contract-interacter-base/index.html",
-    "main.039bf95e.css.map": "/contract-interacter-base/static/css/main.039bf95e.css.map",
-    "main.9062fb3c.js.map": "/contract-interacter-base/static/js/main.9062fb3c.js.map"
+    "main.ba78359e.css.map": "/contract-interacter-base/static/css/main.ba78359e.css.map",
+    "main.4bfbe8f9.js.map": "/contract-interacter-base/static/js/main.4bfbe8f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.039bf95e.css",
-    "static/js/main.9062fb3c.js"
+    "static/css/main.ba78359e.css",
+    "static/js/main.4bfbe8f9.js"
   ]
 }
